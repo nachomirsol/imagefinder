@@ -1,6 +1,6 @@
 ## Description
 
-React app to search for your favourite image. The app uses pixabay api.
+React app to search for your favorite image. The app uses pixabay api.
 
 ## API url
 
